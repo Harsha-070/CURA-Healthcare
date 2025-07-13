@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+# CURA - AI Healthcare Assistant
 
 This contains everything you need to run your app locally.
 
